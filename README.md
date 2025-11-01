@@ -106,4 +106,4 @@ Thanks to [Frontend Mentor](https://www.frontendmentor.io) for providing realist
 ## 👨‍💻 Author
 
 - Frontend Mentor - [Mohammed Belhadj](https://www.frontendmentor.io/profile/m07ammed18)
-- GitHub - [Mohammed Belhadj]([https://www.frontendmentor.io/profile/m07ammed18)
+- GitHub - [Mohammed Belhadj](https://github.com/m07ammed18)
