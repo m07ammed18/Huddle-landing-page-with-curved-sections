@@ -1,0 +1,29 @@
+@use "../helpers" as *;
+
+.container {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+
+  // 🧩 Small screens (≥480px)
+  @include respond(sm) {
+    max-width: 450px;
+  }
+
+  // 🧩 Medium screens (≥768px)
+  @include respond(md) {
+    max-width: 720px;
+  }
+
+  // 🧩 Large screens (≥1024px)
+  @include respond(lg) {
+    max-width: 960px;
+  }
+
+  // 🧩 Extra Large screens (≥1440px)
+  @include respond(xl) {
+    max-width: 1200px;
+  }
+}

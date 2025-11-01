@@ -1,0 +1,27 @@
+@use "../helpers" as *;
+body {
+  font-family: $font-body;
+  color: $dark-cyan;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-heading;
+  color: $dark-cyan;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: clamp(2rem, 5vw + 1rem, 3.5rem);
+  font-weight: $font-bold;
+}
+
+h2 {
+  font-size: clamp(1.6rem, 4vw + 0.8rem, 2.5rem);
+}
+
+p {
+  font-family: $font-body;
+  font-size: clamp(1rem, 2vw, 1.1rem);
+  line-height: 1.6;
+}

@@ -1,0 +1,15 @@
+@use "../helpers" as *;
+
+%button-primary {
+  background-color: $pink;
+  color: #fff;
+  font-weight: $font-bold;
+  padding: 1rem 4rem;
+  border-radius: 50px;
+  text-decoration: none;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+  &:active {
+    background-color: $light-pink;
+  }
+}
+
