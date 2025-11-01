@@ -44,7 +44,7 @@ Users should be able to:
 - Font awesome library
 
 ### What I learned
-In this challenge I learned SASS structur
+In this challenge, I learned SASS structure
 ```txt
 📦SASS
  ┣ 📂base
