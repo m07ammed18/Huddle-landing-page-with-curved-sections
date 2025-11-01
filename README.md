@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://m07ammed18.github.io/Huddle-landing-page-with-curved-sections/))
+- Solution URL: [Hrer](https://your-solution-url.com)
+- Live Site URL: [Hrer](https://m07ammed18.github.io/Huddle-landing-page-with-curved-sections/)
 
 ## My process
 
