@@ -32,8 +32,8 @@ Users should be able to:
 
 ### 🚀 Links
 
-- Solution URL: [Hrer](https://your-solution-url.com)
-- Live Site URL: [Hrer](https://m07ammed18.github.io/Huddle-landing-page-with-curved-sections/)
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curved-sections-1LM9gfX_49)
+- Live Site URL: [Here](https://m07ammed18.github.io/Huddle-landing-page-with-curved-sections/)
 
 ## My process
 
