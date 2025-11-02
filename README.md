@@ -4,17 +4,18 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 
 ## Table of contents
 
-- [Table of contents](#table-of-contents)
-- [🧩 Overview](#-overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [🚀 Links](#-links)
-- [My process](#my-process)
-  - [🛠️ Built with](#️-built-with)
-  - [📚 What I Learned](#-what-i-learned)
-  - [🧩 Project structure](#-project-structure)
-  - [Acknowledgments](#acknowledgments)
-- [👨‍💻 Author](#-author)
+- [Frontend Mentor - Huddle landing page with curved sections solution](#frontend-mentor---huddle-landing-page-with-curved-sections-solution)
+  - [Table of contents](#table-of-contents)
+  - [🧩 Overview](#-overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [🚀 Links](#-links)
+  - [My process](#my-process)
+    - [🛠️ Built with](#️-built-with)
+    - [📚 What I Learned](#-what-i-learned)
+    - [🧩 Project structure](#-project-structure)
+    - [Acknowledgments](#acknowledgments)
+  - [👨‍💻 Author](#-author)
 
 ## 🧩 Overview
 
